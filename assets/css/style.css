@@ -1,0 +1,17 @@
+body {
+    background-color: #000;
+}
+
+.calculator-container {
+    width: 300px;
+    /* margin: auto; */
+    padding: 15px 25px;
+    background-color: #eee;
+    border-radius: 5px;
+}
+
+.display-screen {
+    height: 100px;
+    background-color: #fff;
+    border-radius: 4px;
+}
